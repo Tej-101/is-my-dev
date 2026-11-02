@@ -1,1 +1,10 @@
 
+{
+  "owner": {
+    "username": "YOUR-GITHUB-USERNAME",
+    "email": "tejgwd972@gmail.com"
+  },
+  "records": {
+    "CNAME": "tejaswi-tallapally.pages.dev"
+  }
+}
